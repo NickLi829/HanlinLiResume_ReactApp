@@ -1,0 +1,35 @@
+
+{
+    "code":200,
+    "msg": "请求成功!",
+    "data": [
+        {
+            "title":"Seneca College, Toronto   Jan 2019 – May 2019",
+            "brief":"Design, Develop, React App for make and record student list ---Full stack developer",
+            "tags":[ "React","React Router ","styled components","scss","HTML5" ],
+            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover3.jpg",
+            "id":1
+        },
+        {
+            "title":"Seneca College, Toronto   Sep 2020 – Sep 2021",
+            "brief":"Design, Develop, Test the House Founding system(mobile app) ---Full stack developer",
+            "tags":[ "Nodejs ","HTML5","Javascript ","AngularJS","Heroku Cloud platform","Mongo DB","GitHub" ],
+            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover4.jpg",
+            "id":2
+        },
+        {
+            "title":"Seneca College, Toronto – Aarhus, Denmark July 2019 – Aug 2019",
+            "brief":"Design, Develop, Manage mobile app(Morocco Voluntary Emergency Contact App)---Full stack developer",
+            "tags":[ "SDLC","Nodejs ","HTML5","Javascript ","AngularJS","Heroku Cloud platform","Google Map API","GitHub" ],
+            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover5.jpg",
+            "id":3
+        },
+        {
+            "title":"Shangzhixin Network Technology Development Co., Ltd. (Baidu), Qingdao, China  March 2021 – June 2021",
+            "brief":"Web front-end developer",
+            "tags":[ "HTML5","Javascript ","JQuery","Typescript","" ],
+            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover6.jpg",
+            "id":4
+        }
+    ]
+}
